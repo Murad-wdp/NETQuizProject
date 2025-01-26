@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "question": "What is the square root of 81?",
+    "options": [
+      "A) 7",
+      "B) 8",
+      "C) 9",
+      "D) 10"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 2,
+    "question": "What is 15% of 200?",
+    "options": [
+      "A) 25",
+      "B) 30",
+      "C) 35",
+      "D) 40"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "What is the value of π (pi) approximately?",
+    "options": [
+      "A) 2.71",
+      "B) 3.14",
+      "C) 1.62",
+      "D) 4.20"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "What is 12 × 12?",
+    "options": [
+      "A) 120",
+      "B) 124",
+      "C) 144",
+      "D) 154"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "What is the perimeter of a square with side length 5 cm?",
+    "options": [
+      "A) 10 cm",
+      "B) 20 cm",
+      "C) 25 cm",
+      "D) 30 cm"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "What is 3² + 4²?",
+    "options": [
+      "A) 12",
+      "B) 16",
+      "C) 25",
+      "D) 30"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 7,
+    "question": "What is the next prime number after 7?",
+    "options": [
+      "A) 9",
+      "B) 10",
+      "C) 11",
+      "D) 13"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "What is 1/2 + 1/4?",
+    "options": [
+      "A) 1/4",
+      "B) 1/2",
+      "C) 3/4",
+      "D) 1"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "If a triangle has angles 90°, 45°, and 45°, what type of triangle is it?",
+    "options": [
+      "A) Equilateral",
+      "B) Isosceles",
+      "C) Scalene",
+      "D) Acute"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "What is the formula for the area of a circle?",
+    "options": [
+      "A) 2πr",
+      "B) πr²",
+      "C) πd",
+      "D) 4πr²"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "What is the sum of the interior angles of a triangle?",
+    "options": [
+      "A) 90°",
+      "B) 120°",
+      "C) 180°",
+      "D) 360°"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 12,
+    "question": "What is 7 × 8?",
+    "options": [
+      "A) 48",
+      "B) 56",
+      "C) 64",
+      "D) 72"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "What is the least common multiple (LCM) of 3 and 5?",
+    "options": [
+      "A) 10",
+      "B) 15",
+      "C) 20",
+      "D) 25"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "What is 2⁵?",
+    "options": [
+      "A) 16",
+      "B) 32",
+      "C) 64",
+      "D) 128"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "What are the two solutions to the equation x² = 16?",
+    "options": [
+      "A) 2",
+      "B) -2",
+      "C) 4",
+      "D) -4"
+    ],
+    "correct_answer": "C D" 
+      
+    
+  },
+  {
+    "id": 16,
+    "question": "Which two shapes have the same number of sides?",
+    "options": [
+      "A) Square",
+      "B) Rectangle",
+      "C) Triangle",
+      "D) Rhombus"
+    ],
+    "correct_answer": "A D"
+      
+    
+  },
+  {
+    "id": 17,
+    "question": "Which of the following numbers are prime?",
+    "options": [
+      "A) 11",
+      "B) 15",
+      "C) 17",
+      "D) 21"
+    ],
+    "correct_answer": "A C"
+     
+    
+  },
+  {
+    "id": 18,
+    "question": "Which two angles form a straight line?",
+    "options": [
+      "A) 90°",
+      "B) 45°",
+      "C) 135°",
+      "D) 180°"
+    ],
+    "correct_answer": "A C"
+     
+   
+  },
+  {
+    "id": 19,
+    "question": "What are the factors of 12?",
+    "options": [
+      "A) 1",
+      "B) 3",
+      "C) 4",
+      "D) 6"
+    ],
+    "correct_answer": "A B"
+   
+  },
+  {
+    "id": 20,
+    "question": "What are the first two terms of the Fibonacci sequence?",
+    "options": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3"
+    ],
+    "correct_answer": "A B"
+
+  }
+]

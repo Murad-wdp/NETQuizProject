@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Who was the first president of the United States?",
+    "options": [
+      "a) Thomas Jefferson",
+      "b) Abraham Lincoln",
+      "c) George Washington",
+      "d) John Adams"
+    ],
+    "correct_answer": "C",
+    "id": 1
+  },
+  {
+    "question": "What year did World War II end?",
+    "options": [
+      "a) 1945",
+      "b) 1939",
+      "c) 1941",
+      "d) 1950"
+    ],
+    "correct_answer": "A",
+    "id": 2
+  },
+  {
+    "question": "Which civilization built the pyramids of Giza?",
+    "options": [
+      "a) Mayans",
+      "b) Egyptians",
+      "c) Romans",
+      "d) Greeks"
+    ],
+    "correct_answer": "B",
+    "id": 3
+  },
+  {
+    "question": "Who wrote the \u0027I Have a Dream\u0027 speech?",
+    "options": [
+      "a) Malcolm X",
+      "b) Nelson Mandela",
+      "c) Martin Luther King Jr.",
+      "d) Rosa Parks"
+    ],
+    "correct_answer": "C",
+    "id": 4
+  },
+  {
+    "question": "What was the name of the ship that brought the Pilgrims to America?",
+    "options": [
+      "a) Titanic",
+      "b) Mayflower",
+      "c) Santa Maria",
+      "d) Queen Mary"
+    ],
+    "correct_answer": "B",
+    "id": 5
+  },
+  {
+    "question": "Who discovered America in 1492?",
+    "options": [
+      "a) Christopher Columbus",
+      "b) Vasco da Gama",
+      "c) Ferdinand Magellan",
+      "d) Hern\u00E1n Cort\u00E9s"
+    ],
+    "correct_answer": "A",
+    "id": 6
+  },
+  {
+    "question": "What year did the Berlin Wall fall?",
+    "options": [
+      "a) 1990",
+      "b) 1989",
+      "c) 1985",
+      "d) 1991"
+    ],
+    "correct_answer": "B",
+    "id": 7
+  },
+  {
+    "question": "Who was the first emperor of Rome?",
+    "options": [
+      "a) Julius Caesar",
+      "b) Augustus",
+      "c) Nero",
+      "d) Tiberius"
+    ],
+    "correct_answer": "B",
+    "id": 8
+  },
+  {
+    "question": "In what year did the Titanic sink?",
+    "options": [
+      "a) 1912",
+      "b) 1920",
+      "c) 1905",
+      "d) 1918"
+    ],
+    "correct_answer": "A",
+    "id": 9
+  },
+  {
+    "question": "What event started World War I?",
+    "options": [
+      "a) The assassination of Archduke Franz Ferdinand",
+      "b) The sinking of Lusitania",
+      "c) The Treaty of Versailles",
+      "d) The invasion of Poland"
+    ],
+    "correct_answer": "A",
+    "id": 10
+  },
+  {
+    "question": "Which war lasted 100 years?",
+    "options": [
+      "a) Napoleonic Wars",
+      "b) Hundred Years\u0027 War",
+      "c) Thirty Years\u0027 War",
+      "d) Seven Years\u0027 War"
+    ],
+    "correct_answer": "B",
+    "id": 11
+  },
+  {
+    "question": "Who painted the Sistine Chapel ceiling?",
+    "options": [
+      "a) Leonardo da Vinci",
+      "b) Michelangelo",
+      "c) Raphael",
+      "d) Donatello"
+    ],
+    "correct_answer": "B",
+    "id": 12
+  },
+  {
+    "question": "What was the primary purpose of the Great Wall of China?",
+    "options": [
+      "a) Trade",
+      "b) Defense",
+      "c) Travel",
+      "d) Religion"
+    ],
+    "correct_answer": "B",
+    "id": 13
+  },
+  {
+    "question": "Who led the Russian Revolution in 1917?",
+    "options": [
+      "a) Vladimir Lenin",
+      "b) Joseph Stalin",
+      "c) Leon Trotsky",
+      "d) Nikita Khrushchev"
+    ],
+    "correct_answer": "A",
+    "id": 14
+  },
+  {
+    "question": "Which two countries were involved in the Cuban Missile Crisis?",
+    "options": [
+      "a) USA",
+      "b) USSR",
+      "c) China",
+      "d) Germany"
+    ],
+    "correct_answer": "A B",
+    "id": 15
+  },
+  {
+    "question": "Which two continents were affected by the Columbian Exchange?",
+    "options": [
+      "a) Europe",
+      "b) Asia",
+      "c) Africa",
+      "d) America"
+    ],
+    "correct_answer": "A D",
+    "id": 16
+  },
+  {
+    "question": "Which two events are associated with 1492?",
+    "options": [
+      "a) Discovery of America",
+      "b) Fall of Granada",
+      "c) French Revolution",
+      "d) Founding of Jamestown"
+    ],
+    "correct_answer": "A B",
+    "id": 17
+  },
+  {
+    "question": "Who were the main leaders of World War II?",
+    "options": [
+      "a) Winston Churchill",
+      "b) Adolf Hitler",
+      "c) Franklin Roosevelt",
+      "d) Napoleon Bonaparte"
+    ],
+    "correct_answer": "A C",
+    "id": 18
+  },
+  {
+    "question": "Which two nations were allied during the Napoleonic Wars?",
+    "options": [
+      "a) France",
+      "b) Spain",
+      "c) Prussia",
+      "d) Russia"
+    ],
+    "correct_answer": "A B",
+    "id": 19
+  },
+  {
+    "question": "What are the main outcomes of the Treaty of Versailles?",
+    "options": [
+      "a) End of World War I",
+      "b) Formation of the League of Nations",
+      "c) Start of the Cold War",
+      "d) Collapse of the Ottoman Empire"
+    ],
+    "correct_answer": "A B",
+    "id": 20
+  }
+]

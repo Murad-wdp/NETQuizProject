@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "question": "What is the largest continent by land area?",
+    "options": [
+      "A) Africa",
+      "B) Asia",
+      "C) Europe",
+      "D) Antarctica"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "What is the longest river in the world?",
+    "options": [
+      "A) Nile",
+      "B) Amazon",
+      "C) Yangtze",
+      "D) Mississippi"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "Which country has the most people?",
+    "options": [
+      "A) India",
+      "B) USA",
+      "C) China",
+      "D) Brazil"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "What is the capital of France?",
+    "options": [
+      "A) London",
+      "B) Berlin",
+      "C) Paris",
+      "D) Madrid"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "What is the smallest ocean in the world?",
+    "options": [
+      "A) Pacific",
+      "B) Atlantic",
+      "C) Indian",
+      "D) Arctic"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "id": 6,
+    "question": "Which desert is the largest in the world?",
+    "options": [
+      "A) Sahara",
+      "B) Gobi",
+      "C) Kalahari",
+      "D) Antarctic Desert"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "id": 7,
+    "question": "What is the capital of Japan?",
+    "options": [
+      "A) Beijing",
+      "B) Seoul",
+      "C) Tokyo",
+      "D) Bangkok"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "Which mountain is the tallest in the world?",
+    "options": [
+      "A) Mount Everest",
+      "B) K2",
+      "C) Kilimanjaro",
+      "D) Denali"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "What country is known as the Land of the Rising Sun?",
+    "options": [
+      "A) China",
+      "B) Japan",
+      "C) Thailand",
+      "D) South Korea"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Which country has the largest rainforest?",
+    "options": [
+      "A) Indonesia",
+      "B) Congo",
+      "C) Brazil",
+      "D) Australia"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "Which is the largest island in the world?",
+    "options": [
+      "A) Greenland",
+      "B) Australia",
+      "C) Madagascar",
+      "D) Iceland"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "What is the deepest ocean trench?",
+    "options": [
+      "A) Tonga Trench",
+      "B) Mariana Trench",
+      "C) Java Trench",
+      "D) Philippine Trench"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "What is the largest desert in Africa?",
+    "options": [
+      "A) Kalahari",
+      "B) Sahara",
+      "C) Namib",
+      "D) Libyan Desert"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "What is the currency used in most European countries?",
+    "options": [
+      "A) Dollar",
+      "B) Pound",
+      "C) Euro",
+      "D) Franc"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "id": 15,
+    "question": "Which two countries share the longest border?",
+    "options": [
+      "A) Canada",
+      "B) USA",
+      "C) China",
+      "D) Russia"
+    ],
+    "correct_answer": "A B"
+  },
+  {
+    "id": 16,
+    "question": "Which two continents are entirely in the Southern Hemisphere?",
+    "options": [
+      "A) Africa",
+      "B) Antarctica",
+      "C) Australia",
+      "D) South America"
+    ],
+    "correct_answer": "B C"
+  },
+  {
+    "id": 17,
+    "question": "Which two oceans border Africa?",
+    "options": [
+      "A) Atlantic",
+      "B) Indian",
+      "C) Pacific",
+      "D) Arctic"
+    ],
+    "correct_answer": "A B"
+  },
+  {
+    "id": 18,
+    "question": "Which two countries are in South America?",
+    "options": [
+      "A) Brazil",
+      "B) Argentina",
+      "C) Mexico",
+      "D) Canada"
+    ],
+    "correct_answer": "A B"
+  },
+  {
+    "id": 19,
+    "question": "Which two U.S. states are not part of the mainland?",
+    "options": [
+      "A) Alaska",
+      "B) Hawaii",
+      "C) California",
+      "D) Texas"
+    ],
+    "correct_answer": "A B"
+  },
+  {
+    "id": 20,
+    "question": "Which two rivers are in Europe?",
+    "options": [
+      "A) Danube",
+      "B) Rhine",
+      "C) Amazon",
+      "D) Yangtze"
+    ],
+    "correct_answer": "A B"
+  }
+]
